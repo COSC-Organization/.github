@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/organizations/COSC-Organization/settings/profile" alt="COSC Logo" width="300"/>
+  <img src="https://www.cosc25.in/cosc.jpeg" alt="COSC Logo" width="300"/>
 </p>
 
 <p align="center">

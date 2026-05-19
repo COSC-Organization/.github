@@ -1,1 +1,2 @@
-# COSC-Organization-
+# COSC-Organization
+Hello this is cosc
